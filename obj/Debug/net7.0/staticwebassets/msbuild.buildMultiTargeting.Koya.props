@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Koya.props" />
+</Project>

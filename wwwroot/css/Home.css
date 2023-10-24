@@ -1,0 +1,21 @@
+﻿.navbar-nav {
+    margin-left: 500px;
+}
+.nav-item{
+    margin-left:55px;
+}
+.profile-section{
+    margin-left:300px;
+}
+
+.nav-item a{
+    background-color : transparent;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+.nav-item a:hover {
+    background-color: #FF5733;
+    color:#fff;
+}
